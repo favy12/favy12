@@ -55,8 +55,8 @@ Developed a basic system for monitoring and detecting network threats.
 
 ### 📊 GitHub Stats
 
-![Makanju's GitHub stats](https://github-readme-stats.vercel.app/api?username=makanjufavour&show_icons=true&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makanjufavour&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Makanju's GitHub stats](https://github-readme-stats.vercel.app/api?username=favy12&show_icons=true&theme=radical)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=favy12&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
