@@ -1,71 +1,41 @@
+# Favour Makanju Oreoluwa
 
+**DevOps & Platform Engineer** — AWS · Kubernetes · Terraform
 
-## Hi there, I'm Makanju Favour! 👋  
-
----
-
-### 🚀 About Me
-
-🎓 **Biochemistry Graduate** | 🔒 **Aspiring Cybersecurity Analyst** | 💻 **DevOps Enthusiast**  
-
-I'm passionate about leveraging my background in biochemistry and my skills in tech to build solutions at the intersection of science and technology. My interests span bioinformatics, cybersecurity, and DevSecOps. 
+[LinkedIn](https://www.linkedin.com/in/favour-oreoluwa) · [makanjufavour@gmail.com](mailto:makanjufavour@gmail.com) · Open to relocation to Berlin
 
 ---
 
-### 🌱 What I'm Currently Working On
+DevOps engineer with 4+ years owning cloud infrastructure end to end — AWS architecture, production Kubernetes on both EKS and bare-metal, Terraform-driven environments, CI/CD, observability, and incident response.
 
-- 🧬 Learning advanced **bioinformatics** techniques for real-world applications.
-- 🛠️ Exploring automation in **DevOps pipelines** and **cloud security**.
-- ✍️ Writing articles to share knowledge on scientific research and technology trends.
+Automation-first: Python and Bash tooling that cut manual configuration errors by **70%** and release cycle time by **50%**. Spent three years as the primary infrastructure contact for a North American client, running production at **99.95% uptime** across time zones — no playbook, no large team.
 
----
+Currently supporting infrastructure for **AI model training workflows** at Bespoke Labs, keeping large-scale, compute-intensive environments reliable and reproducible.
 
-### 🛠️ Tech Stack
+## Toolbox
 
-- **Languages**: Python, Bash/Shell
-- **DevOps Tools**: Docker, Kubernetes, CI/CD Pipelines, Jenkins
-- **Cloud Platforms**: AWS 
-- **Cybersecurity**: Network Security Basics, Threat Detection
-- **Databases**: MySQL, PostgreSQL
+| | |
+| --- | --- |
+| **Cloud** | AWS — EC2, EKS, VPC, IAM, S3, RDS, ALB, Route53, CloudFront, Lambda, CloudWatch. Azure exposure |
+| **Kubernetes** | EKS and bare-metal via kubespray and k3s/Rancher. HPA, StatefulSets, PV/PVC, RBAC, NetworkPolicies, Helm, ArgoCD |
+| **Infrastructure as code** | Terraform reusable modules and multi-environment architectures, Ansible, Python, Bash, Perl, SQL |
+| **CI/CD** | GitHub Actions, GitLab CI, Jenkins. Blue-green and rolling deployments, release gating, rollback strategy |
+| **Observability** | Prometheus, Grafana, ELK, CloudWatch, New Relic. On-call, RCA, post-incident review |
+| **Security** | HashiCorp Vault, IAM least privilege, SAST/DAST, Trivy, SonarQube, OWASP |
 
----
+## Selected Work
 
-### 🔗 Featured Projects
+Production systems built under contract. The code is private, so here is what they did.
 
-#### 🌐 [Bioinformatics Analysis Pipeline](#)
-An automated pipeline for analyzing biological datasets.  
-**Tech:** Python, Bash, Docker  
+| Project | Year | Outcome |
+| --- | --- | --- |
+| Multi-Region HA Infrastructure | 2025 | Active-passive multi-region AWS with Route53 failover, cross-region backups, automated DR policies and scheduled failover testing |
+| Production Kubernetes Automation | 2024 | Terraform-provisioned EKS clusters with advanced networking, NetworkPolicies, RBAC and a full monitoring stack |
+| Enterprise CI/CD Optimization | 2023 | GitOps pipeline, +40% deploy efficiency, with SAST/DAST and image scanning as mandatory release gates |
+| Multi-Tier AWS Platform | 2022-25 | VPC, EKS, RDS and ALB architecture at 99.95% uptime; 25% cloud cost reduction through rightsizing and autoscaling |
 
-#### 🛠️ [Secure DevOps Pipeline](#)
-Designed and implemented a secure CI/CD pipeline for deploying web applications.  
-**Tech:** Jenkins, AWS, Kubernetes  
+## Certifications
 
-#### 🔒 [Network Security Monitoring](#)
-Developed a basic system for monitoring and detecting network threats.  
-**Tech:** Python, Wireshark, Linux
+AWS Certified Cloud Practitioner (2026) · Oracle Cloud Infrastructure DevOps Professional (2025) · Google Cybersecurity Certificate (2024)
 
----
-
-### 📫 How to Reach Me
-
-- ✉️ Email: [makanjufavour@gmail.com](mailto:makanjufavour@gmail.com)  
-- 🌐 LinkedIn: [Makanju Favour](https://www.linkedin.com/in/favour-oreoluwa?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BSUXZrXeXTKaiXUtJYd%2B3vQ%3D%3D)  
-
----
-
-### 📊 GitHub Stats
-
-![Makanju's GitHub stats](https://github-readme-stats.vercel.app/api?username=favy12&show_icons=true&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=favy12&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### 🤝 Let's Collaborate!
-
-I’m always excited to connect with like-minded individuals to work on projects in:
-- Bioinformatics
-- Cybersecurity
-- DevSecOps
-- Cloud computing
-- 
-Feel free to explore my repositories and drop me a message! 😊
+B.Sc., Babcock University, Ilishan-Remo, Nigeria
