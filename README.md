@@ -2,8 +2,7 @@
 
 **DevOps & Platform Engineer** — AWS · Kubernetes · Terraform
 
-[LinkedIn](https://www.linkedin.com/in/favour-oreoluwa) · [makanjufavour@gmail.com](mailto:makanjufavour@gmail.com) · Open to relocation to Berlin
-
+[LinkedIn](https://www.linkedin.com/in/favour-oreoluwa) · [makanjufavour@gmail.com](mailto:makanjufavour@gmail.com) · Open to relocation 
 ---
 
 DevOps engineer with 4+ years owning cloud infrastructure end to end — AWS architecture, production Kubernetes on both EKS and bare-metal, Terraform-driven environments, CI/CD, observability, and incident response.
